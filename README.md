@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis Using Gemini LLM and Chain-of-Thought Prompting
+# Sentiment Analysis Using Gemini LLM and Chain-of-Thought Prompting
 
 ## 📌 Project Overview
 
@@ -14,7 +14,7 @@ The project also explores the impact of **Chain-of-Thought (CoT) Prompting**, wh
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Customer reviews contain valuable insights about products and services. However, manually analyzing thousands of reviews is time-consuming and inefficient.
 
@@ -24,7 +24,7 @@ The objective of this project is:
 
 ---
 
-## 🚀 Project Objectives
+##  Project Objectives
 
 * Extract customer reviews from Amazon product pages
 * Clean and preprocess raw review text
@@ -34,7 +34,7 @@ The objective of this project is:
 
 ---
 
-## 🏗️ Project Workflow
+##  Project Workflow
 
 ### Step 1: Data Collection
 
@@ -128,7 +128,7 @@ Sentiment-with-CoT.ipynb
 
 ---
 
-## 💡 Chain-of-Thought Prompting
+##  Chain-of-Thought Prompting
 
 Chain-of-Thought (CoT) prompting encourages the model to break down its reasoning process before arriving at a final prediction.
 
@@ -154,7 +154,7 @@ Benefits:
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 ### Input Review
 
@@ -168,7 +168,7 @@ Positive
 
 ---
 
-## 🔥 Key Learnings
+##  Key Learnings
 
 * Prompt design significantly impacts LLM performance.
 * Chain-of-Thought prompting improves reasoning quality.
@@ -177,7 +177,7 @@ Positive
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Batch sentiment analysis
 * Aspect-based sentiment analysis
@@ -188,7 +188,7 @@ Positive
 
 ---
 
-## 📈 Potential Applications
+##  Potential Applications
 
 * Product Review Analysis
 * Brand Monitoring
@@ -198,7 +198,7 @@ Positive
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hadwala Akhil**
 
@@ -206,7 +206,7 @@ Data Science | Machine Learning | Generative AI Enthusiast
 
 ---
 
-## ⭐ Key Takeaway
+##  Key Takeaway
 
 > Traditional Machine Learning learns sentiment from training data.
 > Large Language Models can infer sentiment directly through prompting and reasoning, making sentiment analysis faster, more flexible, and easier to deploy.
