@@ -1,6 +1,6 @@
 # Sentiment Analysis Using Gemini LLM and Chain-of-Thought Prompting
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how Large Language Models (LLMs) can be used for sentiment analysis without traditional machine learning training.
 
@@ -87,7 +87,7 @@ The model returns one of:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
