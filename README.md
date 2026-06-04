@@ -27,7 +27,7 @@ The objective of this project is:
 ##  Project Objectives
 
 * Extract customer reviews from Amazon product pages
-* Clean and preprocess raw review text
+* Clean and preprocess raw review text using regex and Beautiful Soup
 * Perform sentiment classification using Gemini LLM
 * Compare standard prompting with Chain-of-Thought prompting
 * Understand how reasoning-based prompts affect sentiment prediction
