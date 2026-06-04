@@ -109,8 +109,6 @@ The model returns one of:
 ### Development Environment
 
 * Google Colab
-* Jupyter Notebook
-
 ---
 
 ## 📂 Project Structure
